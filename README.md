@@ -2,10 +2,16 @@
 
 [Contribuciones]: https://github-readme-stats.vercel.app/api?username=juaniarguello&theme=react
 [Lenguajes]: https://github-readme-stats.vercel.app/api/top-langs/?username=juaniarguello&theme=react
+[repo-Turnos-App]: https://github-readme-stats.vercel.app/api/pin/?username=juaniarguello&repo=ort-1-2-pnt1-mvc-CentroDeTurnos&theme=radical
+[proyectoMvc]: https://github.com/juaniarguello/ort-1-2-pnt1-mvc-CentroDeTurnos
 
 | Mis contribuciones | Lenguajes
 | ----------- | -----------
 | ![Contribuciones] | ![Lenguajes]|
+
+| Proyectos realizados |
+| ----------- |
+| [![repo-Turnos-App]][proyectoMvc] |
 
 
 <!--
