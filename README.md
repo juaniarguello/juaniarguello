@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Juani Arguello's github stats](https://github-readme-stats.vercel.app/api?username=juaniarguello&theme=react)](https://github.com/juaniarguello/juaniarguello)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juaniarguello&theme=react)](https://github.com/juaniarguello/juaniarguello)
+
+
 <!--
 **juaniarguello/juaniarguello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
