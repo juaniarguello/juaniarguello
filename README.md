@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-[![Juani Arguello's github stats](https://github-readme-stats.vercel.app/api?username=juaniarguello&theme=react)](https://github.com/juaniarguello/juaniarguello)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juaniarguello&theme=react)](https://github.com/juaniarguello/juaniarguello)
+[Contribuciones]: https://github-readme-stats.vercel.app/api?username=juaniarguello&theme=react
+[Lenguajes]: https://github-readme-stats.vercel.app/api/top-langs/?username=juaniarguello&theme=react
+
+| Mis contribuciones | Lenguajes
+| ----------- | -----------
+| ![Contribuciones] | ![Lenguajes]|
 
 
 <!--
